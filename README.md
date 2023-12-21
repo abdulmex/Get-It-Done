@@ -19,7 +19,13 @@ Boosted with Bootstrap: Utilizes Bootstrap's robust framework for a polished and
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/get-it-done.git
-Install dependencies: cd get-it-done, npm install
-Start the development server: npm start
+Clone the repository:
+git clone https://github.com/your-username/get-it-done.git
+Install dependencies:
+cd get-it-done
+npm install
+Start the development server:
+npm start
 Access the application: Open http://localhost:3000 in your browser.
+
+Here's a link to the live app: https://candid-bunny-1c0d5c.netlify.app/
